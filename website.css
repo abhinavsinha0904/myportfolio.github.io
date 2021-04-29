@@ -121,7 +121,7 @@ body
     font-size: 4rem;
     position: absolute;
     top: 2rem;
-    color: rgba(66, 209, 83, 1) ;
+    color: #184d47;
 }
 .edu_desc
 {
@@ -154,7 +154,7 @@ body
     top: 2rem;
     grid-column: 4/5;
     justify-self: center;
-    color: rgba(66, 209, 83, 1) ;
+    color: #184d47;
 }
 .cont
 {
@@ -335,7 +335,7 @@ ul.list li:not(:last-child)
     height: 100vh; 
     position: relative;
     background-color: #f4f9f9;
-    color: rgba(66, 209, 83, 1) ;
+    
     max-width: 150rem;
 }
 .details_heading
@@ -344,6 +344,7 @@ ul.list li:not(:last-child)
     text-align: center;
     padding: 2rem;
     position: relative;
+    color: #184d47;
 }
 .details_des
 {
@@ -351,6 +352,7 @@ ul.list li:not(:last-child)
     position: absolute;
     top: 27.5rem;
     left: 38rem;
+    color: rgba(66, 209, 83, 1) ;
 }
 .email
 {
